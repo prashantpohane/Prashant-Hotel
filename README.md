@@ -1,29 +1,21 @@
-# Hotel-Website-Template
+aditya Hotel
 
-Free to use website template,created from scratch using HTML and CSS
+This is a Hotel Front End website design
 
-![GitHub package version](https://img.shields.io/github/package-json/v/LjoveX/Hotel-Website-Template.svg)
-[![GitHub forks](https://img.shields.io/github/forks/LjoveX/Hotel-Website-Template.svg?style=plastic)](https://github.com/LjoveX/Hotel-Website-Template/network)
-[![GitHub stars](https://img.shields.io/github/stars/LjoveX/Hotel-Website-Template.svg?style=plastic)](https://github.com/LjoveX/Hotel-Website-Template/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/LjoveX/Hotel-Website-Template/master/LICENSE)
+Web Technologies -> HTML, CSS, JS, Bootstrap
 
-# Note:
-Project is licensed under the MIT license
+IDE: VS-Code
 
-"The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software."
+Industry*: Lifestyle
 
-This means that if you plan to sell our project please keep the copyright notice and copy of original license.
+Project Title*: Hotel Website 
 
-Project is made open source and free for all. We cant prohibit reselling of our project but if you do please follow the licensing terms.
+Problem Statement/Opportunity*: An Hotel owner  wants to build a sample Front End prototype website for their business as the online ordering by people has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, About page for customers help.
 
-# Preview Photos
+Project Description*: Core Idea of Project is to build an sample prototype Hotel Website for a business company or shop keppers with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customers . This project deals with developing an e-commerce website for Online Product Sale so that it become convenient for customers to eat what so ever they want to anytime. It provides the user with a catalog of different product items available in shop for ordering in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
 
-#### Live preview link: https://hungry-lovelace-dd978e.netlify.app/
+Primary Azure Technology: Web Apps
 
-#### Lower part of main page
-![Preview image 1](/img/preview/previewimage1.png?raw=true "Lower part of main page") 
-#### About page
-![Preview image 2](/img/preview/previewimage2.png?raw=true "About page") 
-#### Contact Us Page
-![Preview image 3](/img/preview/previewimage3.png?raw=true "Contact us") 
+Other Azure Technologies: App Service
+
+Final result:: https://prashant-hotel.azurewebsites.net/
