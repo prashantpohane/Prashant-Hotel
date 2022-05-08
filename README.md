@@ -1,4 +1,4 @@
-aditya Hotel
+PRASHANT Hotel
 
 This is a Hotel Front End website design
 
